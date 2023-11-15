@@ -1,0 +1,38 @@
+    body {
+      margin: 75px;
+      font-size: 100px;
+      color: white;
+      background-image: url('images/background.JPG');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    }
+
+
+  .button {
+  background-color: #2A3371;
+  color: #F67148;
+  width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    outline: none;
+  position: fixed;
+  bottom: 250px;
+  right: 600px;
+}
+
+    .list-one {
+      color: #E9DBC3;
+    }
+
+    .list-two {
+      color: #F67148;
+    }
+        
+        .list-three {
+      color: #3C4F3C;
+    }
